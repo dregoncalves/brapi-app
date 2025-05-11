@@ -4,6 +4,8 @@ Projeto criado para exibir cotações de **ações** e **fundos imobiliários (F
 
 ---
 
+![Demonstração do App](./public/demo.gif)
+
 ## 🚀 Funcionalidades
 
 - Navegação por abas: Ações e FIIs
