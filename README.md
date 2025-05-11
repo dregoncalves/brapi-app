@@ -26,7 +26,7 @@ npm install
 
 ## ⚙️ Configuração
 
-1. Crie um arquivo `.env.local` na raiz do projeto:
+1. Se não existir, crie um arquivo `.env.local` na raiz do projeto:
 
 ```
 BRAPI_TOKEN=seu_token_aqui
