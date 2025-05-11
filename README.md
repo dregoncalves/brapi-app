@@ -6,15 +6,6 @@ Projeto criado para exibir cotações de **ações** e **fundos imobiliários (F
 
 ![Demonstração do App](./public/demo.gif)
 
-## 🚀 Funcionalidades
-
-- Navegação por abas: Ações e FIIs
-- Tabelas com nome, código, preço e variação do dia
-- Layout moderno e responsivo
-- Token de API protegido via `.env.local`
-
----
-
 ## 📦 Instalação
 
 ```bash
